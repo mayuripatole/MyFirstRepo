@@ -2,4 +2,5 @@
 *.tmp
 *.jar
 *.war
+*.txt
 /temp/
